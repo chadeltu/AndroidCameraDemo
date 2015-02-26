@@ -18,6 +18,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
+/**
+ * android相机/相册使用样例程序
+ * @author qidalatu
+ *
+ */
 public class MainActivity extends Activity {
 
 	// 应用名称，用于存放图片文件路径
