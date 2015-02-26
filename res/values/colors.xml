@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_white">#ffffffff</color>
+    <color name="big_btn_normal">#ff1e90ff</color>
+    <color name="big_btn_pressed">#ff00bfff</color>
+</resources>
